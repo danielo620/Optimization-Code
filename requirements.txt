@@ -1,0 +1,6 @@
+numpy~=1.19.1
+XlsxWriter~=1.2.9
+pandas~=1.0.5
+joblib~=0.16.0
+xlwings~=0.20.0
+scipy~=1.5.1
